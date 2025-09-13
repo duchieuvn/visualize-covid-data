@@ -1,4 +1,4 @@
-# Visualize COVID data
+# COVID global data analysis
 
 <div id="top"></div>
 <h3 align="center">WORLD COVID DATA VISUALIZATION</h3>
@@ -25,7 +25,8 @@ Including:
 ## Usuage
 
 * To read the report project:  
-Go to [Report.pdf](docs/19127242_19127142_19127360.pdf)  
+[Report 1](docs/lab1/19127242_19127142_19127360.pdf)  
+[Report 2](docs/lab2/19127242_19127142_19127360.pdf)  
 
 * To see how we pull the raw data:   
 Go to [crawl.ipynb](src/crawl.ipynb)  
